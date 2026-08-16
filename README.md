@@ -31,4 +31,4 @@ O projeto está publicado e pode ser visualizado em produção através do GitHu
 * **Efeito Fluido:** Adicionado efeito de rastro gradiente nas linhas deslizantes (`linear-gradient`) em vez de blocos de cor sólida.
 
 ---
-Feito com 💜 por [Seu Nome](https://github.com)
+Feito com 💜 por [Seu Nome](https://github.com/leo-gomes-dev)
